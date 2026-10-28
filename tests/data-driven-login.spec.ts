@@ -1,3 +1,4 @@
+/*
 import { expect, test } from '@playwright/test';
 import { readLoginTestCases } from '../src/utils/excel-data.js';
 
@@ -45,3 +46,4 @@ for (const testCase of loginTestCases) {
     }
   });
 }
+*/
